@@ -1,9 +1,13 @@
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
  ghhhgzfhjfjhfhe ha 
 =======
 <<<<<<< HEAD
  e ha 
 =======
 >>>>>>> 6bfe0d9... m1
+>>>>>>> Stashed changes
+=======
+ ghhhgzfhjfjhfhe ha 
 >>>>>>> Stashed changes
 hi how are you
